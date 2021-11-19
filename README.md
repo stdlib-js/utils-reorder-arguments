@@ -20,7 +20,7 @@ limitations under the License.
 
 # reorderArguments
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Create a function that invokes a provided function with reordered arguments.
 
@@ -150,7 +150,7 @@ out = bar( 1, 2, 3 );
 
 ## See Also
 
--   [`@stdlib/utils/reverse-arguments`][@stdlib/utils/reverse-arguments]: create a function that invokes a provided function with arguments in reverse order.
+-   <span class="package-name">[`@stdlib/utils/reverse-arguments`][@stdlib/utils/reverse-arguments]</span><span class="delimiter">: </span><span class="description">create a function that invokes a provided function with arguments in reverse order.</span>
 
 </section>
 
@@ -201,8 +201,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/utils-reorder-arguments/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/utils-reorder-arguments?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/utils-reorder-arguments.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/utils-reorder-arguments/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
