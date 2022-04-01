@@ -38,7 +38,8 @@
   },
   "dependencies": {
     "@stdlib/assert-is-function": "^0.0.x",
-    "@stdlib/assert-is-nonnegative-integer-array": "^0.0.x"
+    "@stdlib/assert-is-nonnegative-integer-array": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/assert-is-array": "^0.0.x",
