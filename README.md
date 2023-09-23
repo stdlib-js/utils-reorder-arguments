@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/utils-reorder-arguments/tags). For example,
+
+```javascript
 import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@v0.1.0-esm/index.mjs';
 ```
 
@@ -123,7 +128,7 @@ var out = bar( 1, 2 );
 <body>
 <script type="module">
 
-import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@v0.1.0-esm/index.mjs';
+import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@esm/index.mjs';
 
 function foo( a, b, c ) {
     return [ a, b, c ];
