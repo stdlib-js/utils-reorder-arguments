@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@esm/index.mjs';
+import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@v0.2.0-esm/index.mjs';
 ```
 
 #### reorderArguments( fcn, indices\[, thisArg] )
@@ -123,7 +123,7 @@ var out = bar( 1, 2 );
 <body>
 <script type="module">
 
-import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@esm/index.mjs';
+import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@v0.2.0-esm/index.mjs';
 
 function foo( a, b, c ) {
     return [ a, b, c ];
