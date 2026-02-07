@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@deno/mod.js';
+import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@v0.2.3-deno/mod.js';
 ```
 
 #### reorderArguments( fcn, indices\[, thisArg] )
@@ -118,7 +118,7 @@ var out = bar( 1, 2 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@deno/mod.js';
+import reorderArguments from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-reorder-arguments@v0.2.3-deno/mod.js';
 
 function foo( a, b, c ) {
     return [ a, b, c ];
