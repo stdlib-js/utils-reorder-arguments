@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`1c95150`](https://github.com/stdlib-js/stdlib/commit/1c9515034550374b8759dcaf681c6cbc99d47030) - **docs:** fix errors and inconsistencies in `@stdlib/utils` TypeScript declarations [(#12391)](https:-/github.com/stdlib-js/stdlib/pull/12391) _(by Philipp Burckhardt, Athan Reines)_
 -   [`899d81e`](https://github.com/stdlib-js/stdlib/commit/899d81ead915301ac8e472bf659b51ef24bdbdb7) - **test:** fix missing parenthesis _(by Athan Reines)_
 -   [`822fadc`](https://github.com/stdlib-js/stdlib/commit/822fadca5619ac17182fad841af43ec6d1cdd81e) - **bench:** refactor to use string interpolation in `utils` [(#11410)](https://github.com/stdlib-js/stdlib/pull/11410) _(by Karan Anand, Athan Reines)_
 
@@ -25,10 +26,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Philipp Burckhardt
 
 </section>
 
